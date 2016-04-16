@@ -24,3 +24,5 @@ run
 *.bat
 *.gradle
 gradle*
+*.sh
+.DS_Store
